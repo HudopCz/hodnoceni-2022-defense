@@ -60,31 +60,29 @@ Prachy
   * Dává ti 1 kolo předpovědi monster navíc
 * Železná kupole
   * 1600
-  * Udělí 2 poškození vybranému létajícímu monstru
+  * Udělí 2 poškození vybranému létajícímu útočníkovi
   * Vylepšení:
     2. 1000: Zvyšuje poškození Železné kupole o 2
     3. 2400: Zvyšuje poškození Železné kupole o 5
-    4. 2600: Železná kupole může cílit na 1 létající monstrum navíc
+    4. 2600: Železná kupole může cílit na 1 létajícího útočníka navíc
 * Věž
   * 1400
-  * Vyber jedno:
-    * Udělí 1 poškození vybranému létajícímu monstru
-    * Udělí 1 poškození vybranému pozemnímu monstru
+  * Udělí 1 poškození vybranému útočníkovi
   * Vylepšení:
     2. 2000: Zvyšuje poškození Věže o 1
     3. 3400: Zvyšuje poškození Věže o 4
-    4. 3600: Věž může cílit na 1 monstrum navíc
+    4. 3600: Věž může cílit na 1 útočníka navíc
 * Zeď
   * 2400
-  * Rozdělí 3 poškození vybraným pozemním monstrům
   * Zabírá 2 pole
+  * Rozdělí 3 poškození vybraným pozemním monstrům
   * Vylepšení: 
     2. 2600: Zvyšuje poškození Zdi o 3
     3. 3000: Zvyšuje poškození Zdi o 3
     4. 4200: Zvyšuje poškození Zdi o 6
 * Tlustá Berta
   * 2400
-  * Udělí 4 poškození vybranému pozemnímu monstru
+  * Udělí 4 poškození vybranému pozemnímu útočníkovi
   * Vylepšení: 
     2. 2600: Zvyšuje poškození Tlusté Berty o 4
     3. 3000: Zvyšuje poškození Tlusté Berty o 8
