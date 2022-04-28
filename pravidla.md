@@ -33,7 +33,7 @@ Prachy
 
 ## Budovy
 
-* Sýpka
+* Dům
   * 1000
   * Rodí se ti 1 osadník denně navíc
   * Vylepšení:
@@ -54,7 +54,7 @@ Prachy
   * Vylepšení: 
     2. 8000: Zvyšuje tvou výplatu o další 2000 (tedy o 4000)
     3. 4000: Zvyšuje tvou výplatu o další 1000 (tedy o 5000)
-    4. 12000: Zvyšuje tvou výplatu o další 3000 (tedy o 8000)
+    4. 3000: Zvyšuje tvou výplatu o další 3000 (tedy o 8000)
 * Monstrologická stanice
   * 5000
   * Dává ti 1 kolo předpovědi monster navíc
