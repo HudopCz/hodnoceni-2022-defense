@@ -34,11 +34,11 @@ Prachy
 ## Budovy
 
 * Dům
-  * 1000
+  * 3000
   * Rodí se ti 1 osadník denně navíc
   * Vylepšení:
-    2. 2000: Rodí se ti 1 osadník denně navíc
-    3. 4000: Rodí se ti 1 osadník denně navíc
+    2. 5000: Rodí se ti 1 osadník denně navíc
+    3. 7000: Rodí se ti 1 osadník denně navíc
     4. 13000: Rodí se ti 3 osadníci denně navíc
 * Ruská burza
   * 2500
