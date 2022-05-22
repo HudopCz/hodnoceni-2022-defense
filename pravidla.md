@@ -24,12 +24,18 @@ Prachy
   * Veřejné vyhlášení toho, že jste blbě počítali
   * Vyšla nová předpověď monster
 * Vyhodnocení her
+* Rodí se osadníci
 * Obálková metoda vašich aktivit
+  * Aukce pořadí
+    * Máte možnost připlatit si za lepší pořadí
+    * Kdo zaplatí více, kupuje dříve (cenu si udáváte sami - je tajná)
   * Stavba a destavba
     * Pouze 21 polí, kde lze stavět
     * Na jednom poli lze provést jen jednu akci za kolo
     * Efekt budovy platí okamžitě (i na budovy stavěné ve stejné chvíli)
   * Jak se bráníte
+    * Pokud vidíte 0 kol ve své předpovědi monster, obranu píšete jako
+      oddělenou fázi (útočníky vám nahlásíme po vaší stavbě a destavbě)
 
 ## Budovy
 
@@ -54,7 +60,7 @@ Prachy
   * Vylepšení: 
     2. 8000: Zvyšuje tvou výplatu o další 2000 (tedy o 4000)
     3. 4000: Zvyšuje tvou výplatu o další 1000 (tedy o 5000)
-    4. 3000: Zvyšuje tvou výplatu o další 3000 (tedy o 8000)
+    4. 7500: Zvyšuje tvou výplatu o další 3000 (tedy o 8000)
 * Monstrologická stanice
   * 5000
   * Dává ti 1 kolo předpovědi monster navíc
@@ -87,12 +93,8 @@ Prachy
     2. 2600: Zvyšuje poškození Tlusté Berty o 4
     3. 3000: Zvyšuje poškození Tlusté Berty o 8
     4. 4200: Zvyšuje poškození Tlusté Berty o 12
-* Příkop
-  * 
-  * Neuděluje poškození
-  * Ale kdo neumí plavat, tak ho nepřeplave
-  * Vylepšení: 
-* Vedoucovské karty (Óňomič nejlepší)
+* Legendární budovy
+  * Každá z nich je ve hře jen jednou (i v nabídce)
 
 ## Stav počátku
 

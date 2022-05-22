@@ -39,7 +39,8 @@
 
 * Krysa: 1
 * Sovietman: 1
-* Prasopes: 2
+* Prasopes: 1
+* Kozel z pekel: 1
 
 ## Vlna 7
 
@@ -55,7 +56,7 @@
 * Zmutovani trpaslici: 1
 * Zmutovana mura: 1
 * Radskorpion: 5
-* Najezndice: 2
+* Najezdnice: 2
 * Najezdnik: 2
 
 ## Vlna 9
@@ -85,8 +86,13 @@
 * Omikron: 1
 * Lidoprasomedved: 1
 * Pan filuta: 1
-* Kozel z pekel
+* Kozel z pekel: 1
 
 ## Vlna 12
 
 * Krysa: 1
+* Kentaur: 3
+* Omikron: 1
+* Pan Filuta: 1
+* Smrtiparat: 1
+* Supermutant: 1
